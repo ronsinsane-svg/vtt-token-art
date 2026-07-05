@@ -1,0 +1,752 @@
+{
+  "abi-dalzims-horrid-wilting": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/abi-dalzims-horrid-wilting.png",
+    "widthSquares": 8,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "acid-stream": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/acid-stream.png",
+    "widthSquares": 3,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "aganazzars-scorcher": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/aganazzars-scorcher.png",
+    "widthSquares": 3,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "alarm": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/alarm.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "antimagic-field": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/antimagic-field.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "arcane-eye": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/arcane-eye.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "bigbys-hand": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/bigbys-hand.png",
+    "widthSquares": 2,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "blade-barrier-segment": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/blade-barrier-segment.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "bones-of-the-earth": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/bones-of-the-earth.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "burning-hands": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/burning-hands.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "call-lightning": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/call-lightning.png",
+    "widthSquares": 26,
+    "heightSquares": 26,
+    "layer": "objects"
+  },
+  "calm-emotions": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/calm-emotions.png",
+    "widthSquares": 4,
+    "heightSquares": 4,
+    "layer": "objects"
+  },
+  "circle-of-death": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/circle-of-death.png",
+    "widthSquares": 26,
+    "heightSquares": 26,
+    "layer": "objects"
+  },
+  "cloud-of-daggers": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/cloud-of-daggers.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "cloudkill": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/cloudkill.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "color-spray": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/color-spray.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "cone-of-cold": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/cone-of-cold.png",
+    "widthSquares": 13,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "confusion": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/confusion.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "conjure-barrage": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/conjure-barrage.png",
+    "widthSquares": 13,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "conjure-volley": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/conjure-volley.png",
+    "widthSquares": 18,
+    "heightSquares": 18,
+    "layer": "objects"
+  },
+  "cordon-of-arrows": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/cordon-of-arrows.png",
+    "widthSquares": 14,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "create-bonfire": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/create-bonfire.png",
+    "widthSquares": 3,
+    "heightSquares": 3,
+    "layer": "objects"
+  },
+  "dancing-lights": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/dancing-lights.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "dark-star": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/dark-star.png",
+    "widthSquares": 18,
+    "heightSquares": 18,
+    "layer": "objects"
+  },
+  "darkness": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/darkness.png",
+    "widthSquares": 8,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "dawn": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/dawn.png",
+    "widthSquares": 14,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "delayed-blast-fireball": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/delayed-blast-fireball.png",
+    "widthSquares": 9,
+    "heightSquares": 9,
+    "layer": "objects"
+  },
+  "dragons-breath-acid": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/dragons-breath-acid.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "dragons-breath-cold": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/dragons-breath-cold.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "dragons-breath-fire": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/dragons-breath-fire.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "dragons-breath-lightning": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/dragons-breath-lightning.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "dragons-breath-poison": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/dragons-breath-poison.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "dust-devil": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/dust-devil.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "earth-tremor": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/earth-tremor.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "entangle": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/entangle.png",
+    "widthSquares": 4,
+    "heightSquares": 4,
+    "layer": "objects"
+  },
+  "erupting-earth": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/erupting-earth.png",
+    "widthSquares": 4,
+    "heightSquares": 4,
+    "layer": "objects"
+  },
+  "evards-black-tentacles": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/evards-black-tentacles.png",
+    "widthSquares": 4,
+    "heightSquares": 4,
+    "layer": "objects"
+  },
+  "faerie-fire": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/faerie-fire.png",
+    "widthSquares": 4,
+    "heightSquares": 4,
+    "layer": "objects"
+  },
+  "fear": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/fear.png",
+    "widthSquares": 7,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "fire-storm": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/fire-storm.png",
+    "widthSquares": 4,
+    "heightSquares": 4,
+    "layer": "objects"
+  },
+  "fireball": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/fireball.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "flame-strike": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/flame-strike.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "flaming-sphere": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/flaming-sphere.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "fog-cloud": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/fog-cloud.png",
+    "widthSquares": 8,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "forcecage": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/forcecage.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "globe-of-invulnerability": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/globe-of-invulnerability.png",
+    "widthSquares": 7,
+    "heightSquares": 7,
+    "layer": "objects"
+  },
+  "glyph-of-warding": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/glyph-of-warding.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "grasping-vine": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/grasping-vine.png",
+    "widthSquares": 1,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "gravity-fissure": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/gravity-fissure.png",
+    "widthSquares": 7,
+    "heightSquares": 22,
+    "layer": "objects"
+  },
+  "gravity-sinkhole": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/gravity-sinkhole.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "grease": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/grease.png",
+    "widthSquares": 2,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "guardian-of-faith": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/guardian-of-faith.png",
+    "widthSquares": 2,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "gust-of-wind": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/gust-of-wind.png",
+    "widthSquares": 2,
+    "heightSquares": 12,
+    "layer": "objects"
+  },
+  "healing-spirit": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/healing-spirit.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "hunger-of-hadar": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/hunger-of-hadar.png",
+    "widthSquares": 8,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "hypnotic-pattern": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/hypnotic-pattern.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "ice-storm": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/ice-storm.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "illusory-dragon": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/illusory-dragon.png",
+    "widthSquares": 3,
+    "heightSquares": 3,
+    "layer": "objects"
+  },
+  "illusory-dragon-cone": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/illusory-dragon-cone.png",
+    "widthSquares": 13,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "incendiary-cloud": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/incendiary-cloud.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "insect-plague": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/insect-plague.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "investiture-of-flame-ray": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/investiture-of-flame-ray.png",
+    "widthSquares": 3,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "investiture-of-ice-cone": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/investiture-of-ice-cone.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "investiture-of-wind-cube": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/investiture-of-wind-cube.png",
+    "widthSquares": 3,
+    "heightSquares": 3,
+    "layer": "objects"
+  },
+  "leomunds-tiny-hut": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/leomunds-tiny-hut.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "lightning-bolt": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/lightning-bolt.png",
+    "widthSquares": 3,
+    "heightSquares": 22,
+    "layer": "objects"
+  },
+  "maddening-darkness": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/maddening-darkness.png",
+    "widthSquares": 26,
+    "heightSquares": 26,
+    "layer": "objects"
+  },
+  "maelstrom": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/maelstrom.png",
+    "widthSquares": 14,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "mage-hand": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/mage-hand.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "magic-circle": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/magic-circle.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "magnify-gravity": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/magnify-gravity.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "mass-cure-wounds": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/mass-cure-wounds.png",
+    "widthSquares": 14,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "maximilians-earthen-grasp": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/maximilians-earthen-grasp.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "melfs-minute-meteors": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/melfs-minute-meteors.png",
+    "widthSquares": 4,
+    "heightSquares": 4,
+    "layer": "objects"
+  },
+  "meteor-swarm": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/meteor-swarm.png",
+    "widthSquares": 18,
+    "heightSquares": 18,
+    "layer": "objects"
+  },
+  "moonbeam": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/moonbeam.png",
+    "widthSquares": 4,
+    "heightSquares": 4,
+    "layer": "objects"
+  },
+  "otilukes-freezing-sphere": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/otilukes-freezing-sphere.png",
+    "widthSquares": 26,
+    "heightSquares": 26,
+    "layer": "objects"
+  },
+  "otilukes-resilient-sphere": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/otilukes-resilient-sphere.png",
+    "widthSquares": 2,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "prismatic-spray": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/prismatic-spray.png",
+    "widthSquares": 13,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "prismatic-wall-segment": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/prismatic-wall-segment.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "psionic-blast": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/psionic-blast.png",
+    "widthSquares": 7,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "pulse-wave": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/pulse-wave.png",
+    "widthSquares": 7,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "ravenous-void": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/ravenous-void.png",
+    "widthSquares": 14,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "reverse-gravity": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/reverse-gravity.png",
+    "widthSquares": 22,
+    "heightSquares": 22,
+    "layer": "objects"
+  },
+  "rope-trick": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/rope-trick.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "shatter": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/shatter.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "sickening-radiance": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/sickening-radiance.png",
+    "widthSquares": 14,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "silence": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/silence.png",
+    "widthSquares": 8,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "sleep": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/sleep.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "sleet-storm": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/sleet-storm.png",
+    "widthSquares": 18,
+    "heightSquares": 18,
+    "layer": "objects"
+  },
+  "slow": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/slow.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "snare": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/snare.png",
+    "widthSquares": 2,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "snillocs-snowball-swarm": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/snillocs-snowball-swarm.png",
+    "widthSquares": 4,
+    "heightSquares": 4,
+    "layer": "objects"
+  },
+  "spike-growth": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/spike-growth.png",
+    "widthSquares": 8,
+    "heightSquares": 8,
+    "layer": "objects"
+  },
+  "spiritual-weapon-axe": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/spiritual-weapon-axe.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "spiritual-weapon-hammer": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/spiritual-weapon-hammer.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "spiritual-weapon-mace": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/spiritual-weapon-mace.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "spiritual-weapon-sword": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/spiritual-weapon-sword.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "stinking-cloud": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/stinking-cloud.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "storm-sphere": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/storm-sphere.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "summon-lesser-demons-protective-circle": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/summon-lesser-demons-protective-circle.png",
+    "widthSquares": 3,
+    "heightSquares": 3,
+    "layer": "objects"
+  },
+  "sunbeam": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/sunbeam.png",
+    "widthSquares": 3,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "sunburst": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/sunburst.png",
+    "widthSquares": 26,
+    "heightSquares": 26,
+    "layer": "objects"
+  },
+  "symbol": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/symbol.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "synaptic-static": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/synaptic-static.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "tensers-floating-disk": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/tensers-floating-disk.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "test-choir-shade": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/choir-shade.png",
+    "widthSquares": 2,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "thunderwave": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/thunderwave.png",
+    "widthSquares": 5,
+    "heightSquares": 5,
+    "layer": "objects"
+  },
+  "tidal-wave": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/tidal-wave.png",
+    "widthSquares": 2,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "vitriolic-sphere": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/vitriolic-sphere.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "wall-of-fire-segment": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/wall-of-fire-segment.png",
+    "widthSquares": 3,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "wall-of-ice": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/wall-of-ice.png",
+    "widthSquares": 2,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "wall-of-light-segment": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/wall-of-light-segment.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "wall-of-sand-segment": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/wall-of-sand-segment.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "wall-of-stone": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/wall-of-stone.png",
+    "widthSquares": 1,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "wall-of-thorns-segment": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/wall-of-thorns-segment.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "wall-of-water-segment": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/wall-of-water-segment.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "watery-sphere": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/watery-sphere.png",
+    "widthSquares": 2,
+    "heightSquares": 2,
+    "layer": "objects"
+  },
+  "web-10x10": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/web-10x10.png",
+    "widthSquares": 10,
+    "heightSquares": 10,
+    "layer": "objects"
+  },
+  "web-6x6": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/web-6x6.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "weird": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/weird.png",
+    "widthSquares": 14,
+    "heightSquares": 14,
+    "layer": "objects"
+  },
+  "whirlwind": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/whirlwind.png",
+    "widthSquares": 6,
+    "heightSquares": 6,
+    "layer": "objects"
+  },
+  "wind-wall-segment": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/wind-wall-segment.png",
+    "widthSquares": 1,
+    "heightSquares": 1,
+    "layer": "objects"
+  },
+  "wrath-of-nature": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/wrath-of-nature.png",
+    "widthSquares": 12,
+    "heightSquares": 12,
+    "layer": "objects"
+  },
+  "zone-of-truth": {
+    "url": "https://raw.githubusercontent.com/ronsinsane-svg/vtt-token-art/main/effects/zone-of-truth.png",
+    "widthSquares": 8,
+    "heightSquares": 8,
+    "layer": "objects"
+  }
+}
